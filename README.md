@@ -1,21 +1,20 @@
+**Hey There**
+I’m **Omaima Ameen**, a self-taught software developer who’s all about learning by building.
+I love turning ideas into web experiences and understanding what actually makes products work in the real world 
 
-Hey, I’m **Omaima Ameen** , a self-made storm in the world of software.  
-A tech visionary in the making | Self-taught dev with a hunger to build what's next 🚀
+Right now, I’m diving deep into backend projetcs and building projects that help me think like an engineer Along the way, I’m exploring business side of things and the entire process of how a product grows from an idea to something people use.
 
----
+I’m curious, consistent, and obsessed with improving my craft
 
-### 👋 Who am I?
-I'm not just here to code.  
-I'm here to **create, collaborate, and shake things up** in the tech world.  
-Driven by curiosity, led by passion — I believe creativity + code = limitless possibilities.  
 
----
+
+
 
 ### 💻 What I’m doing right now:
 - 🔨 Building projects that **solve real problems**
 - 🚀 Learning full-stack web dev & aiming to **launch my own SaaS**
-- 📚 Diving deep into **JavaScript, Tailwind CSS, and building UIs with React**
-- 📈 Exploring startups, business models & how to turn ideas into impact
+- 📚 Diving deep into **MERN stack and AI Integration**
+- 📈 Also exploring startups, business models & how to turn ideas into impact
 
 ---
 
@@ -31,15 +30,13 @@ I vibe with:
 ---
 
 ### 🌍 Where to find me:
-- 📩 **Let’s talk:** [LinkedIn – Omaima Ameen](https://www.linkedin.com/in/omaima-ameen-24a6272a6)  
-- 📸 **Instagram:** [@omaimaameen5](https://www.instagram.com/omaimaameen5)  
-- 🧠 **DMs are open** for collabs, freelance projects, or just techy banter
+- 📩 **LinkedIn:** [LinkedIn – Omaima Ameen](https://www.linkedin.com/in/omaima-ameen-24a6272a6)  
+- 📸 **Instagram:** [@heytechomaima](https://www.instagram.com/heytechomaima)  
+- 🧠 **Reach me out** for collabs, freelance projects, or just techy banter
 
----
 
-### ✨ Motto:
 
-**" Creating an aura in tech that can't be copied "**
+
 
 
 
