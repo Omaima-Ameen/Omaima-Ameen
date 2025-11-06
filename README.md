@@ -1,4 +1,5 @@
 **Hey There**
+
 I’m **Omaima Ameen**, a self-taught software developer who’s all about learning by building.
 I love turning ideas into web experiences and understanding what actually makes products work in the real world 
 
@@ -10,11 +11,11 @@ I’m curious, consistent, and obsessed with improving my craft
 
 
 
-### 💻 What I’m doing right now:
-- 🔨 Building projects that **solve real problems**
-- 🚀 Learning full-stack web dev & aiming to **launch my own SaaS**
-- 📚 Diving deep into **MERN stack and AI Integration**
-- 📈 Also exploring startups, business models & how to turn ideas into impact
+### What I’m doing right now:
+-  Building projects that **solve real problems**
+-  Learning full-stack web dev & aiming to **launch my own SaaS**
+-  Diving deep into **MERN stack and AI Integration**
+-  Also exploring startups, business models & how to turn ideas into impact
 
 ---
 
@@ -30,9 +31,9 @@ I vibe with:
 ---
 
 ### 🌍 Where to find me:
-- 📩 **LinkedIn:** [LinkedIn – Omaima Ameen](https://www.linkedin.com/in/omaima-ameen-24a6272a6)  
-- 📸 **Instagram:** [@heytechomaima](https://www.instagram.com/heytechomaima)  
-- 🧠 **Reach me out** for collabs, freelance projects, or just techy banter
+-  **LinkedIn:** [LinkedIn – Omaima Ameen](https://www.linkedin.com/in/omaima-ameen-24a6272a6)  
+-  **Instagram:** [@heytechomaima](https://www.instagram.com/heytechomaima)  
+-  **Reach me out** for collabs, freelance projects, or just techy banter
 
 
 
