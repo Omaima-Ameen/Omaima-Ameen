@@ -1,5 +1,6 @@
 # Self Taught Developer 
 
+<img width="220" height="152" alt="image" src="https://github.com/user-attachments/assets/4e9e70bb-f392-4239-87f0-f0fa5522d9e9" />
 
 
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
