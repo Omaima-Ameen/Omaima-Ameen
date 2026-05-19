@@ -11,7 +11,7 @@ into:
 - chrome extensions
 - SaaS builds
 
-[![Skills & Technologies](https://skillicons.dev/icons?i=js,html,css,wasm,react,node,next,vscode,git,express,python,chrome,framer)](https://skillicons.dev)
+[![Skills & Technologies](https://skillicons.dev/icons?i=js,html,css,wasm,react,nodejs,next,vscode,git,express,python,chrome,framer)](https://skillicons.dev)
 
 
 
