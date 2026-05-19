@@ -34,13 +34,15 @@ into:
 - 
 
 ## Connect with me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/omaima-ameen
 
-[![DEV](https://img.shields.io/badge/DEV-black?style=for-the-badge&logo=dev.to)](your-link)
+)
 
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](your-link)
+[![DEV](https://img.shields.io/badge/DEV-black?style=for-the-badge&logo=dev.to)]([your-link](https://dev.to/heytechomaima))
 
-[![Threads](https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads)](your-link)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)]([your-link](https://www.instagram.com/heytechomaima/))
+
+[![Threads](https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads)]([your-link](https://www.threads.com/@heytechomaima))
 
 
 
