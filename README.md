@@ -1,9 +1,10 @@
-# Self Taught Developer 
+# Hyiie, this is Omaima Ameen 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EB88F7&width=435&lines=Self%2C+taught+Software+Developer)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=Omaima-Ameen&color=green)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omaima-Ameen&show_icons=true&theme=tokyonight)
+
 
 <img width="750" height="422" alt="image" src="https://github.com/user-attachments/assets/6c72d6d9-b385-42b6-9a2a-690e4feca13e" />
 
