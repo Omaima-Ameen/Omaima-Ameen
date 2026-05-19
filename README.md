@@ -11,7 +11,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-link)[![DEV](https://img.shields.io/badge/DEV-black?style=for-the-badge&logo=dev.to)](your-link)![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](your-link)![Threads](https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=Threads)](your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-link)[![DEV](https://img.shields.io/badge/DEV-black?style=for-the-badge&logo=dev.to)](your-link)![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)]-(your-link)![Threads](https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=Threads)](your-link)
 
 
 
