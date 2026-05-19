@@ -1,16 +1,19 @@
 # heyy, i'm omaima 👋
 
-self-taught developer building cool things for the web while obsessing over browser internals, modern ui, chrome extensions & futuristic tech :|
 
-currently experimenting with:
-- web internals
-- chrome extensions
-- SaaS builds
+self-taught developer building cool things for the web while obsessing over browser internals, modern ui, chrome extensions & futuristic tech :|
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EB88F7&background=EDBDFF00&width=435&lines=Learning+in+public;Building+things+for+the+internet;Exploring+wierd+tech+ideas)](https://git.io/typing-svg)
 
 
+into:
+- web internals
+- chrome extensions
+- SaaS builds
+
 [![Skills & Technologies](https://skillicons.dev/icons?i=js,html,css,wasm,react,node,next,vscode,git,express,python,chrome,framer)](https://skillicons.dev)
+
+
 
 ## currently exploring
 
@@ -20,11 +23,15 @@ currently experimenting with:
 - chrome extension APIs
 - building tiny saas ideas
 
+- 
+
 ## writing & sharing
 
 - technical articles on dev.to
 - documenting things i learn
-- sharing web experiments online 
+- sharing web experiments online
+
+- 
 
 ## Connect with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-link)
