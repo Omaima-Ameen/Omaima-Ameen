@@ -1,6 +1,6 @@
 # Hyiie, this is Omaima Ameen 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EB88F7&width=435&lines=Self%2C+taught+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EB88F7&background=FFA4F600&width=435&lines=Self+Taught+Software+Developer)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=Omaima-Ameen&color=green)
 
