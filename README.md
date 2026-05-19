@@ -23,7 +23,7 @@ into:
 - chrome extension APIs
 - building tiny saas ideas
 
-- 
+  
 
 ## writing & sharing
 
@@ -31,12 +31,10 @@ into:
 - documenting things i learn
 - sharing web experiments online
 
-- 
+  
 
 ## Connect with me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/omaima-ameen
-
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([your-link](https://www.linkedin.com/in/omaima-ameen))
 
 [![DEV](https://img.shields.io/badge/DEV-black?style=for-the-badge&logo=dev.to)]([your-link](https://dev.to/heytechomaima))
 
